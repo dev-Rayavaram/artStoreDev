@@ -1,0 +1,42 @@
+@import './modules/all';
+
+$container-height:100%;
+$container-width:100%;
+
+.home{
+    display: flex;
+    background:url('../images/tajmahal-canvas-art.jpg');
+    position: relative;
+    overflow: hidden;
+    animation: 2s ease-in-out both fade-in;
+    @keyframes fade-in {
+        0%{
+            opacity: 0;
+            transform: scale(0);
+        }
+        100%{
+            opacity: 1;
+            transform: scale(1);
+        }
+        
+    }
+    img{
+        position: relative;
+    }
+    min-width: 100vmin;
+    min-height: 100vmin;
+    background-size:cover;
+    }
+ 
+
+h1{
+    @include san-sarif();
+    text-align: center;
+    @include span();
+   
+    @keyframes increase{
+        0%{transform:scale(1)}
+        100%{transform: scale(1.5);}
+    }
+}
+

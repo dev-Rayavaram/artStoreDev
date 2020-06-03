@@ -1,0 +1,54 @@
+@mixin san-sarif($cl:$color-base,$ff:$title,$ft:3rem,$lht:1.5,$lsp:5.5,$tt:uppercase){
+    color:$cl;
+    font-family: $ff;
+    font-size: $ft;
+    line-height: $lht;
+    letter-spacing: $lsp;
+    text-transform:$tt;
+
+}
+@mixin form($size:100%,$cols:50%,$ft:$title){
+    justify-content: stretch;
+    padding:30px;
+    border:30px;
+    margin:30px;
+    width:$size;
+    .row{
+        width:80%;
+        height:20%;
+    }
+    .label{
+        width:50%;
+        color:$color14;
+    }
+    input{
+        width:  $cols;
+        font:   $ft;
+        padding:10px;
+
+    }  
+}
+@mixin grid($cols,$mgn){
+    float:left;
+   margin: 0;
+   padding: 0;
+    width:((100%-(($cols)-1)*$mgn)/$cols);
+    &:nth-child(#{$cols}n){
+        margin-right: 0;
+        margin-left: 0;
+    }
+}
+@mixin span{
+    display: block;
+    @include san-sarif($cl:$color14,$ff:$cursiveT,$ft:2.4rem);
+    position: relative;
+    top:0%;
+}
+@mixin banner(){
+    display: flex;
+    position: absolute;
+    top:1%;
+    left:10%;
+    height:25%;
+    width:100%;
+}

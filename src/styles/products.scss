@@ -1,0 +1,59 @@
+@import './modules/all';
+
+.product{
+    display: flex;
+    flex-direction: column;
+    width:90%;
+    height:80%;
+    background-size:cover;
+    float:right;
+    background-position: center;
+    background:url('../images/page.jpeg');
+    background-size:cover;
+    padding: 0;
+    border: 0;
+    margin: 0;
+    margin-left: 0;
+    margin-right: 0;
+    .banner{
+        @include banner();
+        span{
+            display: block;
+            background-color: $color12;
+            @include san-sarif($cl:$color16,$ff:$cursiveT,$ft:4.6rem);
+        }   
+    }
+     ul{
+        overflow:hidden;
+    }
+    .wrapper{
+        flex-wrap: wrap;
+        overflow: hidden;
+    }
+     li{
+        list-style: none;
+        display: flex;
+        margin:0; 
+        padding: 0;
+        flex-direction: column;
+        border: 2px solid $color14;
+        align-items: center;
+        @include grid(3,0%);
+        .product-details{
+            display: flex;
+            flex-direction: row;
+            width:80%;
+           padding:20px
+        }
+        img{
+            width:80%;
+            border-radius: 8%;
+        }
+        button{
+            width:20%;
+            height:20%;
+        
+        }
+
+    }
+ }

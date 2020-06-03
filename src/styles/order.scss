@@ -1,0 +1,13 @@
+
+@import './modules/all';
+$container-height:100%;
+$container-width:100%;
+
+h1{
+    @include san-sarif();
+    text-align: center;
+    span{
+        display: block;
+        @include san-sarif($cl:$color14,$ff:$cursiveT,$ft:4.5rem);
+    }
+}
