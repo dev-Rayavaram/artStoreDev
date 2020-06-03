@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/artStoreDev/static/css/main.15ac9e77.chunk.css",
+    "main.js": "/artStoreDev/static/js/main.5e5ec2f1.chunk.js",
+    "main.js.map": "/artStoreDev/static/js/main.5e5ec2f1.chunk.js.map",
+    "runtime-main.js": "/artStoreDev/static/js/runtime-main.51acaa0b.js",
+    "runtime-main.js.map": "/artStoreDev/static/js/runtime-main.51acaa0b.js.map",
+    "static/js/2.8d5b8c5f.chunk.js": "/artStoreDev/static/js/2.8d5b8c5f.chunk.js",
+    "static/js/2.8d5b8c5f.chunk.js.map": "/artStoreDev/static/js/2.8d5b8c5f.chunk.js.map",
+    "index.html": "/artStoreDev/index.html",
+    "precache-manifest.327d9ebf39bd1317c801371723075ef5.js": "/artStoreDev/precache-manifest.327d9ebf39bd1317c801371723075ef5.js",
+    "service-worker.js": "/artStoreDev/service-worker.js",
+    "static/css/main.15ac9e77.chunk.css.map": "/artStoreDev/static/css/main.15ac9e77.chunk.css.map",
+    "static/js/2.8d5b8c5f.chunk.js.LICENSE.txt": "/artStoreDev/static/js/2.8d5b8c5f.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/artStoreDev/static/media/tajmahal-canvas-art.30c1228b.jpg",
+    "static/media/cart.jpeg": "/artStoreDev/static/media/cart.424b9927.jpeg",
+    "static/media/imag.jpg": "/artStoreDev/static/media/imag.31f51b53.jpg",
+    "static/media/image-lg-1.jpg": "/artStoreDev/static/media/image-lg-1.99e48335.jpg",
+    "static/media/image-lg-2.jpg": "/artStoreDev/static/media/image-lg-2.0cc313b7.jpg",
+    "static/media/image-lg-3.jpg": "/artStoreDev/static/media/image-lg-3.1817e768.jpg",
+    "static/media/image-lg-4.jpg": "/artStoreDev/static/media/image-lg-4.df8df01a.jpg",
+    "static/media/image-lg-5.jpg": "/artStoreDev/static/media/image-lg-5.c1a512d5.jpg",
+    "static/media/image-lg-7.jpg": "/artStoreDev/static/media/image-lg-7.554e4694.jpg",
+    "static/media/image-lg-9.jpg": "/artStoreDev/static/media/image-lg-9.4ddf3a13.jpg",
+    "static/media/image-sm-1.jpg": "/artStoreDev/static/media/image-sm-1.b44b9cc5.jpg",
+    "static/media/image-sm-2.jpg": "/artStoreDev/static/media/image-sm-2.0cc313b7.jpg",
+    "static/media/image-sm-3.jpg": "/artStoreDev/static/media/image-sm-3.eb5498ee.jpg",
+    "static/media/image-sm-4.jpg": "/artStoreDev/static/media/image-sm-4.df8df01a.jpg",
+    "static/media/image-sm-5.jpg": "/artStoreDev/static/media/image-sm-5.c1a512d5.jpg",
+    "static/media/image-sm-7.jpg": "/artStoreDev/static/media/image-sm-7.614c9e47.jpg",
+    "static/media/image-sm-9.jpg": "/artStoreDev/static/media/image-sm-9.4ddf3a13.jpg",
+    "static/media/pexels-photo-1037993.jpeg": "/artStoreDev/static/media/pexels-photo-1037993.36bd2938.jpeg",
+    "static/media/pexels-photo-1646953.jpeg": "/artStoreDev/static/media/pexels-photo-1646953.a7f36ff0.jpeg",
+    "static/media/pexels-photo-220320.jpeg": "/artStoreDev/static/media/pexels-photo-220320.007f1984.jpeg",
+    "static/media/pexels-photo-743986.jpeg": "/artStoreDev/static/media/pexels-photo-743986.d77c88d4.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.51acaa0b.js",
+    "static/js/2.8d5b8c5f.chunk.js",
+    "static/css/main.15ac9e77.chunk.css",
+    "static/js/main.5e5ec2f1.chunk.js"
+  ]
+}
