@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/artStoreDev/static/css/main.15ac9e77.chunk.css",
-    "main.js": "/artStoreDev/static/js/main.6a218b2c.chunk.js",
-    "main.js.map": "/artStoreDev/static/js/main.6a218b2c.chunk.js.map",
+    "main.js": "/artStoreDev/static/js/main.6dfa277c.chunk.js",
+    "main.js.map": "/artStoreDev/static/js/main.6dfa277c.chunk.js.map",
     "runtime-main.js": "/artStoreDev/static/js/runtime-main.51acaa0b.js",
     "runtime-main.js.map": "/artStoreDev/static/js/runtime-main.51acaa0b.js.map",
-    "static/js/2.5eb3f544.chunk.js": "/artStoreDev/static/js/2.5eb3f544.chunk.js",
-    "static/js/2.5eb3f544.chunk.js.map": "/artStoreDev/static/js/2.5eb3f544.chunk.js.map",
+    "static/js/2.d8204ca9.chunk.js": "/artStoreDev/static/js/2.d8204ca9.chunk.js",
+    "static/js/2.d8204ca9.chunk.js.map": "/artStoreDev/static/js/2.d8204ca9.chunk.js.map",
     "index.html": "/artStoreDev/index.html",
-    "precache-manifest.04cc15a80327d7b1a46567c558018870.js": "/artStoreDev/precache-manifest.04cc15a80327d7b1a46567c558018870.js",
+    "precache-manifest.3294325560f15a73b931c2d01b33fb99.js": "/artStoreDev/precache-manifest.3294325560f15a73b931c2d01b33fb99.js",
     "service-worker.js": "/artStoreDev/service-worker.js",
     "static/css/main.15ac9e77.chunk.css.map": "/artStoreDev/static/css/main.15ac9e77.chunk.css.map",
-    "static/js/2.5eb3f544.chunk.js.LICENSE.txt": "/artStoreDev/static/js/2.5eb3f544.chunk.js.LICENSE.txt",
+    "static/js/2.d8204ca9.chunk.js.LICENSE.txt": "/artStoreDev/static/js/2.d8204ca9.chunk.js.LICENSE.txt",
     "static/media/App.scss": "/artStoreDev/static/media/tajmahal-canvas-art.30c1228b.jpg",
     "static/media/cart.jpeg": "/artStoreDev/static/media/cart.424b9927.jpeg",
     "static/media/imag.jpg": "/artStoreDev/static/media/imag.31f51b53.jpg",
@@ -36,8 +36,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.51acaa0b.js",
-    "static/js/2.5eb3f544.chunk.js",
+    "static/js/2.d8204ca9.chunk.js",
     "static/css/main.15ac9e77.chunk.css",
-    "static/js/main.6a218b2c.chunk.js"
+    "static/js/main.6dfa277c.chunk.js"
   ]
 }
