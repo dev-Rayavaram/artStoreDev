@@ -8,7 +8,7 @@ import Product from './components/Products'
 import Navbar from './components/Navbar'
 import Cart from './components/Cart'
 import User from './components/User'
-import { BrowserRouter as Router, Route,Switch} from 'react-router-dom';
+import { HashRouter as Router, Route,Switch} from 'react-router-dom';
 import './App.scss'
 
 
