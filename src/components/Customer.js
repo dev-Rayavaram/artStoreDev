@@ -153,9 +153,6 @@ class Customer extends Component {
                 <Form.Group>
                 <Button variant="primary" type="button" className="btn btn-primary" onClick={this.handleSubmit}>Check out</Button>
                 </Form.Group>
-                <Form.Group>
-                    <Button tag={Link} to="/Home">Home</Button>
-                </Form.Group>       
                 </Form>
                     
                 </div>
