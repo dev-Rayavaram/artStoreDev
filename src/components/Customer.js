@@ -3,6 +3,7 @@ import axios from 'axios';
 import {Form,Button} from 'react-bootstrap'
 import Header from './Header';
 import {connect} from 'react-redux';
+import { Link } from 'react-router-dom';
 
 const Key = process.env.REACT_APP_API_KEY;
  
@@ -151,9 +152,10 @@ class Customer extends Component {
       
                 <Form.Group>
                 <Button variant="primary" type="button" className="btn btn-primary" onClick={this.handleSubmit}>Check out</Button>
+                <Button tag={Link} to="/Home">Home</Button>
                 </Form.Group>       
                 </Form>
-                    <a href="#" style={{fontSize:'20px'}}>HOME</a>
+                    
                 </div>
             </div>
         
