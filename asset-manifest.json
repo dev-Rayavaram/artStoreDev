@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/artStoreDev/static/css/main.15ac9e77.chunk.css",
-    "main.js": "/artStoreDev/static/js/main.f1130764.chunk.js",
-    "main.js.map": "/artStoreDev/static/js/main.f1130764.chunk.js.map",
+    "main.js": "/artStoreDev/static/js/main.6a218b2c.chunk.js",
+    "main.js.map": "/artStoreDev/static/js/main.6a218b2c.chunk.js.map",
     "runtime-main.js": "/artStoreDev/static/js/runtime-main.51acaa0b.js",
     "runtime-main.js.map": "/artStoreDev/static/js/runtime-main.51acaa0b.js.map",
     "static/js/2.5eb3f544.chunk.js": "/artStoreDev/static/js/2.5eb3f544.chunk.js",
     "static/js/2.5eb3f544.chunk.js.map": "/artStoreDev/static/js/2.5eb3f544.chunk.js.map",
     "index.html": "/artStoreDev/index.html",
-    "precache-manifest.97a41659474d4ceb5dee1f68d128fb59.js": "/artStoreDev/precache-manifest.97a41659474d4ceb5dee1f68d128fb59.js",
+    "precache-manifest.04cc15a80327d7b1a46567c558018870.js": "/artStoreDev/precache-manifest.04cc15a80327d7b1a46567c558018870.js",
     "service-worker.js": "/artStoreDev/service-worker.js",
     "static/css/main.15ac9e77.chunk.css.map": "/artStoreDev/static/css/main.15ac9e77.chunk.css.map",
     "static/js/2.5eb3f544.chunk.js.LICENSE.txt": "/artStoreDev/static/js/2.5eb3f544.chunk.js.LICENSE.txt",
@@ -38,6 +38,6 @@
     "static/js/runtime-main.51acaa0b.js",
     "static/js/2.5eb3f544.chunk.js",
     "static/css/main.15ac9e77.chunk.css",
-    "static/js/main.f1130764.chunk.js"
+    "static/js/main.6a218b2c.chunk.js"
   ]
 }
