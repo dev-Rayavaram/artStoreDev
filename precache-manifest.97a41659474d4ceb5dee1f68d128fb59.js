@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "100456a5456441d27858aca566810263",
+    "revision": "992812b6facef7edf9526085fdcdb1a4",
     "url": "/artStoreDev/index.html"
   },
   {
-    "revision": "82d73903ef8f5999bfca",
+    "revision": "202a1685789e6f615c41",
     "url": "/artStoreDev/static/css/main.15ac9e77.chunk.css"
   },
   {
-    "revision": "28d508cec43778754c58",
-    "url": "/artStoreDev/static/js/2.8d5b8c5f.chunk.js"
+    "revision": "81f9133398da51e2edc5",
+    "url": "/artStoreDev/static/js/2.5eb3f544.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/artStoreDev/static/js/2.8d5b8c5f.chunk.js.LICENSE.txt"
+    "url": "/artStoreDev/static/js/2.5eb3f544.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "82d73903ef8f5999bfca",
-    "url": "/artStoreDev/static/js/main.5e5ec2f1.chunk.js"
+    "revision": "202a1685789e6f615c41",
+    "url": "/artStoreDev/static/js/main.f1130764.chunk.js"
   },
   {
     "revision": "eee5b3d385b123f4b4d7",
