@@ -91,7 +91,7 @@ class Customer extends Component {
             <div className='App'>
                 <div className='product'>
                 <Header/>
-                <br/>
+                <br></br>
                 <h3 className="title">Enter Your Contact Information:</h3>
                 <span> Your phone number will be validated ,and we will contact you.
                      Phone number format countrt code+phone number (14444444444)
@@ -152,7 +152,9 @@ class Customer extends Component {
       
                 <Form.Group>
                 <Button variant="primary" type="button" className="btn btn-primary" onClick={this.handleSubmit}>Check out</Button>
-                <Button tag={Link} to="/Home">Home</Button>
+                </Form.Group>
+                <Form.Group>
+                    <Button tag={Link} to="/Home">Home</Button>
                 </Form.Group>       
                 </Form>
                     

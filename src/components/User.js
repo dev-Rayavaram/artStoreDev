@@ -125,7 +125,6 @@ class User extends Component {
                 <Button variant="primary" type="button" className="btn btn-danger" onClick={this.handleDelete}>Delete</Button>
                 </Form.Group>       
                 </Form>
-                    <a href="./Home" style={{fontSize:'20px'}}>HOME</a>
                 </div>
             </div>
         
