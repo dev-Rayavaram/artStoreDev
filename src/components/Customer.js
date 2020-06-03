@@ -153,7 +153,7 @@ class Customer extends Component {
                 <Button variant="primary" type="button" className="btn btn-primary" onClick={this.handleSubmit}>Check out</Button>
                 </Form.Group>       
                 </Form>
-                    <a href="https://dev-rayavaram.github.io/artStoreDev/#/home" style={{fontSize:'20px'}}>HOME</a>
+                    <a href="#" style={{fontSize:'20px'}}>HOME</a>
                 </div>
             </div>
         
